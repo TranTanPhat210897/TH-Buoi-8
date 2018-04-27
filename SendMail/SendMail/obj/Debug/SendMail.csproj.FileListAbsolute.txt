@@ -1,0 +1,9 @@
+F:\Study\LapTrinhMang\TH-Buoi-8\SendMail\SendMail\bin\Debug\SendMail.exe.config
+F:\Study\LapTrinhMang\TH-Buoi-8\SendMail\SendMail\bin\Debug\SendMail.exe
+F:\Study\LapTrinhMang\TH-Buoi-8\SendMail\SendMail\bin\Debug\SendMail.pdb
+F:\Study\LapTrinhMang\TH-Buoi-8\SendMail\SendMail\obj\Debug\SendMail.csprojResolveAssemblyReference.cache
+F:\Study\LapTrinhMang\TH-Buoi-8\SendMail\SendMail\obj\Debug\SendMail.SendMail.resources
+F:\Study\LapTrinhMang\TH-Buoi-8\SendMail\SendMail\obj\Debug\SendMail.Properties.Resources.resources
+F:\Study\LapTrinhMang\TH-Buoi-8\SendMail\SendMail\obj\Debug\SendMail.csproj.GenerateResource.Cache
+F:\Study\LapTrinhMang\TH-Buoi-8\SendMail\SendMail\obj\Debug\SendMail.exe
+F:\Study\LapTrinhMang\TH-Buoi-8\SendMail\SendMail\obj\Debug\SendMail.pdb

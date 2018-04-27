@@ -1,0 +1,9 @@
+F:\Study\LapTrinhMang\TH-Buoi-8\SendMail\ReceiveMail\bin\Debug\ReceiveMail.exe.config
+F:\Study\LapTrinhMang\TH-Buoi-8\SendMail\ReceiveMail\bin\Debug\ReceiveMail.exe
+F:\Study\LapTrinhMang\TH-Buoi-8\SendMail\ReceiveMail\bin\Debug\ReceiveMail.pdb
+F:\Study\LapTrinhMang\TH-Buoi-8\SendMail\ReceiveMail\obj\Debug\ReceiveMail.csprojResolveAssemblyReference.cache
+F:\Study\LapTrinhMang\TH-Buoi-8\SendMail\ReceiveMail\obj\Debug\ReceiveMail.Form1.resources
+F:\Study\LapTrinhMang\TH-Buoi-8\SendMail\ReceiveMail\obj\Debug\ReceiveMail.Properties.Resources.resources
+F:\Study\LapTrinhMang\TH-Buoi-8\SendMail\ReceiveMail\obj\Debug\ReceiveMail.csproj.GenerateResource.Cache
+F:\Study\LapTrinhMang\TH-Buoi-8\SendMail\ReceiveMail\obj\Debug\ReceiveMail.exe
+F:\Study\LapTrinhMang\TH-Buoi-8\SendMail\ReceiveMail\obj\Debug\ReceiveMail.pdb
